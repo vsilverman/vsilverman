@@ -22,6 +22,7 @@ I am also a [Jenkins contributor](https://www.jenkins.io/blog/authors/vsilverman
 ### Recent badges -
 
 [<img align="left" alt="Hacktoberfest" width="26px" src="https://raw.githubusercontent.com/github/explore/5a50921c15e01a964d7a1ff8a96763645fa1e269/topics/hacktoberfest/hacktoberfest.png" />](https://dev.to/badge/hacktoberfest-2020)
+[<img align="left" alt="OneYearClub" width="26px" src="https://user-images.githubusercontent.com/2159948/127067755-fc7e7170-98b4-48ea-bbea-abd2789bb466.png" />](https://dev.to/badge/one-year-club)
 <br />
 
 ### Connect with me -
